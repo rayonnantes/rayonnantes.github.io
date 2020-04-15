@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 1 plain-ascend = 1 cost=49 energy=.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ creator="BRouter-1.6.0" version="1.1">
+ <wpt lon="-2.170144" lat="47.267873">
+  <name>Mindin</name>
+ </wpt>
+ <wpt lon="-2.104076" lat="47.114620">
+  <name>Pornic</name>
+ </wpt>
+ <wpt lon="-1.975521" lat="47.028844">
+  <name>Port du Collet</name>
+ </wpt>
+ <wpt lon="-1.814879" lat="46.991410">
+  <name>Machecoul</name>
+ </wpt>
+ <wpt lon="-1.513631" lat="46.935587">
+  <name>Rocheservière</name>
+ </wpt>
+ <wpt lon="-1.314317" lat="46.973697">
+  <name>Montaigu</name>
+ </wpt>
+ <wpt lon="-1.282065" lat="47.087268">
+  <name>Clisson</name>
+ </wpt>
+ <wpt lon="-1.046600" lat="47.263876">
+  <name>Montrevault</name>
+ </wpt>
+ <wpt lon="-1.184485" lat="47.336432">
+  <name>Liré</name>
+ </wpt>
+ <wpt lon="-1.416787" lat="47.526605">
+  <name>Vioreau</name>
+ </wpt>
+ <wpt lon="-1.802890" lat="47.516331">
+  <name>La Belle Etoile</name>
+ </wpt>
+ <wpt lon="-1.923547" lat="47.293442">
+  <name>Rohars</name>
+ </wpt>
+ <wpt lon="-2.213577" lat="47.373913">
+  <name>Ile de Fedrun</name>
+ </wpt>
+ <wpt lon="-2.280569" lat="47.238219">
+  <name>Plage de Saint Marc</name>
+ </wpt>
+ <wpt lon="-2.103805" lat="46.921076">
+  <name>Passage du Gois</name>
+ </wpt>
+ <wpt lon="-1.820376" lat="46.592055">
+  <name>Brem</name>
+ </wpt>
+ <wpt lon="-1.244765" lat="46.864240">
+  <name>La Salette</name>
+ </wpt>
+ <wpt lon="-1.042633" lat="47.004841">
+  <name>Le Longeron</name>
+ </wpt>
+ <wpt lon="-0.746752" lat="47.147335">
+  <name>Puy de la Garde</name>
+ </wpt>
+ <wpt lon="-0.709523" lat="47.337063">
+  <name>Col d&apos;Ardenay</name>
+ </wpt>
+ <wpt lon="-1.347403" lat="47.605013">
+  <name>Moisdon la Rivière</name>
+ </wpt>
+ <wpt lon="-1.842852" lat="47.763431">
+  <name>Viaduc des Corbinières</name>
+ </wpt>
+ <wpt lon="-2.306882" lat="47.518556">
+  <name>La Roche Bernard</name>
+ </wpt>
+ <wpt lon="-2.546457" lat="47.380083">
+  <name>Piriac</name>
+ </wpt>
+ <wpt lon="-3.040876" lat="47.977692">
+  <name>Saint Nicolas des Eaux</name>
+ </wpt>
+ <wpt lon="-2.583720" lat="48.322866">
+  <name>Mont Bel Air</name>
+ </wpt>
+ <wpt lon="-1.768994" lat="48.572014">
+  <name>Mont Dol</name>
+ </wpt>
+ <wpt lon="-1.253816" lat="48.415633">
+  <name>Le Chatelier</name>
+ </wpt>
+ <wpt lon="-0.402549" lat="48.235729">
+  <name>Hambers Montaigu</name>
+ </wpt>
+ <wpt lon="-0.233999" lat="47.889334">
+  <name>Asnières sur Vègre</name>
+ </wpt>
+ <wpt lon="-0.200989" lat="47.329854">
+  <name>Cunault</name>
+ </wpt>
+ <wpt lon="-0.146664" lat="46.603113">
+  <name>Terrier de Saint Martin de Fouilloux</name>
+ </wpt>
+ <wpt lon="-1.153420" lat="46.154950">
+  <name>La Rochelle</name>
+ </wpt>
+</gpx>

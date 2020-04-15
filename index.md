@@ -4,44 +4,48 @@ title: RayonNantes
 
 {% include_relative leaflet.html %}
 
-Des villes ont été choisies tout autour de Nantes.
-
-Rallier une de ces villes à Nantes, ou inversement, valide :
-
-* ~15 Mini Rayon : ~ 60 à 100km A/R
-* ~10 Rayon : ~ 120 à 200km A/R
-* ~5 Maxi Rayon : ~ 300 à 600km A/R
-
-Tous les Rayons validés : MiniRoue/Roue/MaxiRoue
-
-Tous les Rayons validés dans les deux sens : Mini?/?/Maxi?
+Les RayonNantes, ce sont des randonnées au départ de Nantes, à faire ponctuellement ou à collectioner.
 
 ## Règlement
 
-*   Puissance musculaire uniquement
-*   Sans assistance / autonomie
-*   Parcours libre
-*   Seul ou en groupe
-*   Heure de départ libre
-*   Pas de limite de temps
-*   Enregistrement électronique de la trace (Garmin, Strava, GPX, ...)
+* Parcours libre
+* Seul ou en groupe
+* Heure de départ libre
+* Pas de limite de temps
+* Puissance musculaire uniquement
+* Sans assistance / autonomie
+* Enregistrement électronique de la trace (Garmin, Strava, GPX, ...)
+* Plusieurs RayonNantes peuvent être validées sur une seule trace
 
 ## Inscription
 
-*   Gratuit
-*   En ligne
-*   Parcours proposés
+* Gratuit
+* En ligne (probablement sur [brevets.bike](https://www.brevets.bike))
+* Avant, pendant ou après
+* Parcours proposés
 
 ## Validation
 
-*   Automatique
-*   Triche non envisagée
+* Automatique
+* Triche non envisagée
+
+## Palmarès
+
+* Pour chaque RayonNantes :
+  * première réussite : 6 points
+  * chaque réussite suivante : 1 point
+
+## Participation
+
+* Contact (proposition, question, ...)
 
 # Rayons
 
-## Mini Rayons
+En cours !
 
 {% include_relative mini.html %}
+
+## Proches
 
 *   Saint Brévin - Mindin
 *   Pornic
@@ -56,9 +60,8 @@ Tous les Rayons validés dans les deux sens : Mini?/?/Maxi?
 *   La Belle Etoile (Forêt du Gavre)
 *   Rohars
 
-## Rayons
+## Pas trop loins
 
-*   Missillac - Bretesche
 *   Ile de Fedrun
 *   Plage de Saint Marc
 *   Passage du Gois
@@ -72,7 +75,7 @@ Tous les Rayons validés dans les deux sens : Mini?/?/Maxi?
 *   Viaduc des Corbinières
 *   La Roche Bernard
 
-## Maxi Rayons
+## Solides
 
 *   Piriac
 *   Saint Nicolas des Eaux
@@ -89,3 +92,5 @@ Tous les Rayons validés dans les deux sens : Mini?/?/Maxi?
 # Crédits
 
 Sur le principe des [Flèches de l’Ouest](http://ecbc.ffvelo.fr/flechesouest/), des [Centrionales](https://cyclotourisme-mag.com/2016/02/18/centrionales-cyclistes-de-la-france-souvenir-patrick-plaine/) et des [Flèches de France](http://www.audax-club-parisien.com/FR/331%20-%20Accueil%20Fl%C3%A8ches%20de%20France.html).
+
+Inspiré par Patrick Plaine et Vélocio.
