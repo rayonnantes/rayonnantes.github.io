@@ -43,7 +43,7 @@ Les RayonNantes, ce sont des randonnées au départ de Nantes, à faire ponctuel
 
 En cours !
 
-{% include_relative mini.html %}
+{% include_relative map.html %}
 
 ## Proches
 
