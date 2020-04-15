@@ -32,32 +32,11 @@
  <wpt lon="-1.184485" lat="47.336432">
   <name>Liré</name>
  </wpt>
- <wpt lon="-1.416787" lat="47.526605">
-  <name>Vioreau</name>
- </wpt>
  <wpt lon="-1.802890" lat="47.516331">
   <name>La Belle Etoile</name>
  </wpt>
- <wpt lon="-1.923547" lat="47.293442">
-  <name>Rohars</name>
- </wpt>
- <wpt lon="-2.213577" lat="47.373913">
-  <name>Ile de Fedrun</name>
- </wpt>
- <wpt lon="-2.280569" lat="47.238219">
-  <name>Plage de Saint Marc</name>
- </wpt>
  <wpt lon="-2.103805" lat="46.921076">
   <name>Passage du Gois</name>
- </wpt>
- <wpt lon="-1.820376" lat="46.592055">
-  <name>Brem</name>
- </wpt>
- <wpt lon="-1.244765" lat="46.864240">
-  <name>La Salette</name>
- </wpt>
- <wpt lon="-1.042633" lat="47.004841">
-  <name>Le Longeron</name>
  </wpt>
  <wpt lon="-0.746752" lat="47.147335">
   <name>Puy de la Garde</name>
@@ -65,17 +44,11 @@
  <wpt lon="-0.709523" lat="47.337063">
   <name>Col d&apos;Ardenay</name>
  </wpt>
- <wpt lon="-1.347403" lat="47.605013">
-  <name>Moisdon la Rivière</name>
- </wpt>
  <wpt lon="-1.842852" lat="47.763431">
   <name>Viaduc des Corbinières</name>
  </wpt>
  <wpt lon="-2.306882" lat="47.518556">
   <name>La Roche Bernard</name>
- </wpt>
- <wpt lon="-2.546457" lat="47.380083">
-  <name>Piriac</name>
  </wpt>
  <wpt lon="-3.040876" lat="47.977692">
   <name>Saint Nicolas des Eaux</name>
@@ -103,5 +76,29 @@
  </wpt>
  <wpt lon="-1.153420" lat="46.154950">
   <name>La Rochelle</name>
+ </wpt>
+ <wpt lon="-3.079801" lat="47.469018">
+  <name>Pointe du Conguel</name>
+ </wpt>
+ <wpt lon="-2.317275" lat="48.687927">
+  <name>Cap Fréhel</name>
+ </wpt>
+ <wpt lon="-1.517006" lat="47.497336">
+  <name>Maquis de Saffré</name>
+ </wpt>
+ <wpt lon="-2.511375" lat="47.300650">
+  <name>Pen Bron</name>
+ </wpt>
+ <wpt lon="-2.033449" lat="47.301592">
+  <name>Tourelle des Moutons</name>
+ </wpt>
+ <wpt lon="-0.812787" lat="46.777472">
+  <name>Puy Crapaud</name>
+ </wpt>
+ <wpt lon="-0.952962" lat="47.848447">
+  <name>Craon</name>
+ </wpt>
+ <wpt lon="-1.829804" lat="46.548234">
+  <name>Sauveterre</name>
  </wpt>
 </gpx>
