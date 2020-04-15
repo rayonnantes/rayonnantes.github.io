@@ -17,7 +17,7 @@
         tileSize: 512,
         zoomOffset: -1,
         accessToken: accessToken
-    }).addTo(mymap);
+    }).addTo(map);
     var gpx = 'rayonnantes.gpx';
     new L.GPX(gpx, { async: true }).on('loaded', function (e) {
         map.fitBounds(e.target.getBounds());
