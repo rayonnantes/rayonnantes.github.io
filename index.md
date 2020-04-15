@@ -2,7 +2,7 @@
 title: RayonNantes
 ---
 
-{% include_relative carte.html %}
+{% include_relative leaflet.html %}
 
 Des villes ont été choisies tout autour de Nantes.
 
@@ -40,6 +40,8 @@ Tous les Rayons validés dans les deux sens : Mini?/?/Maxi?
 # Rayons
 
 ## Mini Rayons
+
+{% include_relative mini.html %}
 
 *   Saint Brévin - Mindin
 *   Pornic
