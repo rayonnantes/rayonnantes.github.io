@@ -56,28 +56,25 @@ En cours !
 *   Clisson - Halles
 *   Montrevault - Pont du Bohardy
 *   Liré - Château de la Turmelière
-*   Vioreau
+*   Maquis de Saffré
 *   La Belle Etoile (Forêt du Gavre)
-*   Rohars
+*   Tourelle des Moutons
 
 ## Pas trop loins
 
-*   Ile de Fedrun
-*   Plage de Saint Marc
 *   Passage du Gois
-*   Brem - la Cabane, île de la Chaboissière
-*   ~~Beaulieu sous la Roche~~
-*   La Salette
-*   Le Longeron - Barrage des rivières
+*   Sauveterre
+*   Puy Crapaud
 *   Saint Georges des Gardes - Puy de la Garde
 *   Col d’Ardenay
-*   Forges de Moisdon-la-Rivière
+*   Craon
 *   Viaduc des Corbinières
 *   La Roche Bernard
+*   Pen Bron
 
 ## Solides
 
-*   Piriac
+*   Pointe du Conguel
 *   Saint Nicolas des Eaux
 *   Mont Bel Air
 *   Cap Fréhel
