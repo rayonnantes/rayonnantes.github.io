@@ -2,6 +2,8 @@
 title: RayonNantes
 ---
 
+{% include_relative carte.html %}
+
 Des villes ont été choisies tout autour de Nantes.
 
 Rallier une de ces villes à Nantes, ou inversement, valide :
@@ -84,4 +86,4 @@ Tous les Rayons validés dans les deux sens : Mini?/?/Maxi?
 
 # Crédits
 
-Sur le principe des [Flèches de l’Ouest](http://ecbc.ffvelo.fr/flechesouest/), les [Centrionales](https://cyclotourisme-mag.com/2016/02/18/centrionales-cyclistes-de-la-france-souvenir-patrick-plaine/) ou les [Flèches de France](http://www.audax-club-parisien.com/FR/331%20-%20Accueil%20Fl%C3%A8ches%20de%20France.html).
+Sur le principe des [Flèches de l’Ouest](http://ecbc.ffvelo.fr/flechesouest/), des [Centrionales](https://cyclotourisme-mag.com/2016/02/18/centrionales-cyclistes-de-la-france-souvenir-patrick-plaine/) et des [Flèches de France](http://www.audax-club-parisien.com/FR/331%20-%20Accueil%20Fl%C3%A8ches%20de%20France.html).
