@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 1 plain-ascend = 1 cost=49 energy=.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ creator="BRouter-1.6.0" version="1.1">
+ <wpt lon="-2.170144" lat="47.267873">
+  <name>Mindin</name>
+ </wpt>
+ <wpt lon="-2.104076" lat="47.114620">
+  <name>Pornic</name>
+ </wpt>
+ <wpt lon="-1.975521" lat="47.028844">
+  <name>Port du Collet</name>
+ </wpt>
+ <wpt lon="-1.814879" lat="46.991410">
+  <name>Machecoul</name>
+ </wpt>
+ <wpt lon="-1.513631" lat="46.935587">
+  <name>Rocheservière</name>
+ </wpt>
+ <wpt lon="-1.314317" lat="46.973697">
+  <name>Montaigu</name>
+ </wpt>
+ <wpt lon="-1.282065" lat="47.087268">
+  <name>Clisson</name>
+ </wpt>
+ <wpt lon="-1.046600" lat="47.263876">
+  <name>Montrevault</name>
+ </wpt>
+ <wpt lon="-1.184485" lat="47.336432">
+  <name>Liré</name>
+ </wpt>
+ <wpt lon="-1.416787" lat="47.526605">
+  <name>Vioreau</name>
+ </wpt>
+ <wpt lon="-1.802890" lat="47.516331">
+  <name>La Belle Etoile</name>
+ </wpt>
+ <wpt lon="-1.923547" lat="47.293442">
+  <name>Rohars</name>
+ </wpt>
+</gpx>

@@ -4,21 +4,22 @@
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
     integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
     crossorigin=""></script>
-<style>
-    #mapid { height: 320px; }
-</style>
-
-<div id="mapid"></div>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
+<div id='map' style='height: 300px;'></div>
 <script>
-    var token = 'pk.eyJ1IjoiZ2xhbmRhaXMiLCJhIjoiY2s1cGNsbzF3MGZiczNrcWw1dDF2eGc0aSJ9.4OFz5mY1vzWcDKJUzT-CBA';
-    var map = L.map('mapid').setView([47.2173, -1.5534], 10);
+    var accessToken = 'pk.eyJ1IjoiZ2xhbmRhaXMiLCJhIjoiY2s1cGNsbzF3MGZiczNrcWw1dDF2eGc0aSJ9.4OFz5mY1vzWcDKJUzT-CBA';
+    var map = L.map('mapid');
+    map.setView([47.22, -1.55], 9);
     L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
         attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
         maxZoom: 18,
-        id: 'mapbox/streets-v11',
+        id: 'mapbox/outdoors-v11',
         tileSize: 512,
         zoomOffset: -1,
-        accessToken: token
+        accessToken: accessToken
+    }).addTo(mymap);
+    var gpx = 'rayonnantes.gpx';
+    new L.GPX(gpx, { async: true }).on('loaded', function (e) {
+        map.fitBounds(e.target.getBounds());
     }).addTo(map);
 </script>
