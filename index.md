@@ -20,7 +20,7 @@ Les RayonNantes, ce sont des randonnées au départ de Nantes, à faire ponctuel
 ## Inscription
 
 * Gratuit
-* En ligne (probablement sur [brevets.bike](https://www.brevets.bike))
+* En ligne (sur [brevets.bike](https://www.brevets.bike/brevets/rayonnantes))
 * Avant, pendant ou après
 * Parcours proposés
 
