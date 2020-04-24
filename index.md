@@ -60,32 +60,6 @@ En cours !
 *   La Belle Etoile (Forêt du Gavre)
 *   Tourelle des Moutons
 
-## Pas trop loins
-
-*   Passage du Gois
-*   Sauveterre
-*   Puy Crapaud
-*   Saint Georges des Gardes - Puy de la Garde
-*   Col d’Ardenay
-*   Craon
-*   Viaduc des Corbinières
-*   La Roche Bernard
-*   Pen Bron
-
-## Solides
-
-*   Pointe du Conguel
-*   Saint Nicolas des Eaux
-*   Mont Bel Air
-*   Cap Fréhel
-*   Mont Dol
-*   Le Chatelier (35)
-*   Hambers, Montaigu
-*   Asnières sur Vègre
-*   Cunault
-*   Terrier de Saint Martin de Fouilloux
-*   La Rochelle
-
 # Crédits
 
 Sur le principe des [Flèches de l’Ouest](http://ecbc.ffvelo.fr/flechesouest/), des [Centrionales](https://cyclotourisme-mag.com/2016/02/18/centrionales-cyclistes-de-la-france-souvenir-patrick-plaine/) et des [Flèches de France](http://www.audax-club-parisien.com/FR/331%20-%20Accueil%20Fl%C3%A8ches%20de%20France.html).

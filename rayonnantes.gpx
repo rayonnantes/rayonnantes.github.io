@@ -6,7 +6,7 @@
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  creator="BRouter-1.6.0" version="1.1">
  <wpt lon="-2.170144" lat="47.267873">
-  <name>Mindin</name>
+  <name>Saint Brévin - Mindin</name>
  </wpt>
  <wpt lon="-2.104076" lat="47.114620">
   <name>Pornic</name>
@@ -15,90 +15,30 @@
   <name>Port du Collet</name>
  </wpt>
  <wpt lon="-1.814879" lat="46.991410">
-  <name>Machecoul</name>
+  <name>Machecoul - Château</name>
  </wpt>
  <wpt lon="-1.513631" lat="46.935587">
-  <name>Rocheservière</name>
+  <name>Rocheservière - Vieux Pont</name>
  </wpt>
  <wpt lon="-1.314317" lat="46.973697">
-  <name>Montaigu</name>
+  <name>Montaigu - Château</name>
  </wpt>
  <wpt lon="-1.282065" lat="47.087268">
-  <name>Clisson</name>
+  <name>Clisson - Halles</name>
  </wpt>
  <wpt lon="-1.046600" lat="47.263876">
-  <name>Montrevault</name>
+  <name>Montrevault - Pont du Bohardy</name>
  </wpt>
  <wpt lon="-1.184485" lat="47.336432">
-  <name>Liré</name>
- </wpt>
- <wpt lon="-1.802890" lat="47.516331">
-  <name>La Belle Etoile</name>
- </wpt>
- <wpt lon="-2.103805" lat="46.921076">
-  <name>Passage du Gois</name>
- </wpt>
- <wpt lon="-0.746752" lat="47.147335">
-  <name>Puy de la Garde</name>
- </wpt>
- <wpt lon="-0.709523" lat="47.337063">
-  <name>Col d&apos;Ardenay</name>
- </wpt>
- <wpt lon="-1.842852" lat="47.763431">
-  <name>Viaduc des Corbinières</name>
- </wpt>
- <wpt lon="-2.306882" lat="47.518556">
-  <name>La Roche Bernard</name>
- </wpt>
- <wpt lon="-3.040876" lat="47.977692">
-  <name>Saint Nicolas des Eaux</name>
- </wpt>
- <wpt lon="-2.583720" lat="48.322866">
-  <name>Mont Bel Air</name>
- </wpt>
- <wpt lon="-1.768994" lat="48.572014">
-  <name>Mont Dol</name>
- </wpt>
- <wpt lon="-1.253816" lat="48.415633">
-  <name>Le Chatelier</name>
- </wpt>
- <wpt lon="-0.402549" lat="48.235729">
-  <name>Hambers Montaigu</name>
- </wpt>
- <wpt lon="-0.233999" lat="47.889334">
-  <name>Asnières sur Vègre</name>
- </wpt>
- <wpt lon="-0.200989" lat="47.329854">
-  <name>Cunault</name>
- </wpt>
- <wpt lon="-0.146664" lat="46.603113">
-  <name>Terrier de Saint Martin de Fouilloux</name>
- </wpt>
- <wpt lon="-1.153420" lat="46.154950">
-  <name>La Rochelle</name>
- </wpt>
- <wpt lon="-3.079801" lat="47.469018">
-  <name>Pointe du Conguel</name>
- </wpt>
- <wpt lon="-2.317275" lat="48.687927">
-  <name>Cap Fréhel</name>
+  <name>Liré - Château de la Turmelière</name>
  </wpt>
  <wpt lon="-1.517006" lat="47.497336">
   <name>Maquis de Saffré</name>
  </wpt>
- <wpt lon="-2.511375" lat="47.300650">
-  <name>Pen Bron</name>
+ <wpt lon="-1.802890" lat="47.516331">
+  <name>La Belle Etoile (Forêt du Gavre)</name>
  </wpt>
  <wpt lon="-2.033449" lat="47.301592">
   <name>Tourelle des Moutons</name>
- </wpt>
- <wpt lon="-0.812787" lat="46.777472">
-  <name>Puy Crapaud</name>
- </wpt>
- <wpt lon="-0.952962" lat="47.848447">
-  <name>Craon</name>
- </wpt>
- <wpt lon="-1.829804" lat="46.548234">
-  <name>Sauveterre</name>
  </wpt>
 </gpx>
